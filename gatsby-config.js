@@ -3,7 +3,6 @@ module.exports = {
     title: 'Gatsby Built Blog',
     desc: 'Recent Posts',
   },
-  pathPrefix: '/gatsby-blog',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
