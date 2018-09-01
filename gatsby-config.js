@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    desc: 'My First Gatsby Blog',
+    title: 'Gatsby Built Blog',
+    desc: 'Recent Posts',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -20,7 +20,12 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        excerpt_separator: `<!-- end -->`,
+      },
+    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
   ],
