@@ -1,13 +1,14 @@
-import React from 'react'
-import Link from 'gatsby-link'
+import React from 'react';
+import Link from 'gatsby-link';
 
 const PostListing = ({ post }) => (
   <article>
-    <h3>{post.frontmatter.title}</h3>
+    <h3>
+      <Link to={post.fields.slug}>{post.frontmatter.title}</Link>{' '}
+    </h3>
     <p>{post.frontmatter.date}</p>
     <p>{post.excerpt}</p>
-    {/* <div dangerouslySetInnerHTML={{ __html: post.html }} /> */}
   </article>
-)
+);
 
-export default PostListing
+export default PostListing;

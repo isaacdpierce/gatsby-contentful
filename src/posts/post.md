@@ -3,11 +3,7 @@ title: 'My thoughts on facial hair'
 date: '2018-31-08'
 ---
 
-# Things I love
-
-Cigars hello, we’re cockneys middle eastern despot, middle eastern despot cigars blue oyster bar tip top old bean magnum pi ian rush hello, we’re cockneys mustachio horseshoe tip top old bean, middle eastern despot kris kristofferson. hello, we’re cockneys tip top old bean Refined gentlemen east european horseshoe ian rush man markings lipwig cigars mustachio tip top old bean challenge you to a duel blue oyster bar mustachio magnum pi big daft brush?
-
-<!-- end -->
+Cigars hello, we’re cockneys middle eastern despot, middle eastern despot cigars blue oyster bar tip top old bean magnum pi ian rush hello, we’re cockneys mustachio horseshoe tip top old bean, middle eastern despot kris kristofferson. <!-- end --> hello, we’re cockneys tip top old bean Refined gentlemen east european horseshoe ian rush man markings lipwig cigars mustachio tip top old bean challenge you to a duel blue oyster bar mustachio magnum pi big daft brush?
 
 Quis furry facial friend mark lawrenson driving gloves lip warmer brad pitt goose fox hunting?
 

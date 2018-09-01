@@ -1,9 +1,9 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import Img from 'gatsby-image'
-import styled from 'styled-components'
+import React from 'react';
+import Link from 'gatsby-link';
+import Img from 'gatsby-image';
+import styled from 'styled-components';
 
-import logo from '../../images/logo.svg'
+import logo from '../../images/logo.svg';
 
 const HeaderWrapper = styled.div`
   background: #333;
@@ -16,14 +16,14 @@ const HeaderWrapper = styled.div`
       max-height: 60px;
     }
   }
-`
+`;
 const HeaderContainer = styled.div`
   margin: 0 auto;
   max-width: 960px;
   padding: 1.45rem 1.0875rem;
   position: relative;
   z-index: 2;
-`
+`;
 
 const Header = ({ data }) => (
   <HeaderWrapper>
@@ -63,6 +63,6 @@ const Header = ({ data }) => (
       sizes={data.background.sizes}
     />
   </HeaderWrapper>
-)
+);
 
-export default Header
+export default Header;
