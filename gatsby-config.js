@@ -3,6 +3,7 @@ module.exports = {
     title: 'Gatsby Built Blog',
     desc: 'Recent Posts',
   },
+  pathPrefix: '/gatsby',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
@@ -29,4 +30,4 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
   ],
-}
+};
