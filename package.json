@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "isaac-pierce-blog",
+  "description": "Blog",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Isaac>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-image": "^1.0.55",
