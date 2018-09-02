@@ -1,7 +1,9 @@
 ---
-title: 'My thoughts on cupcakes'
 date: '2018-09-01'
+title: My thoughts on cupcakes
+image: /assets/cupcake.jpg
 ---
+![cupcake](/assets/cupcake.jpg)
 
 Danish dragée biscuit brownie marzipan. Cupcake toffee chocolate cake wafer carrot cake cookie. Toffee ice cream tiramisu tiramisu. Cake chocolate cotton candy caramels jujubes cheesecake. Lemon drops caramels danish jelly-o. Jujubes cheesecake candy ice cream cheesecake fruitcake candy canes. Chocolate bar bear claw lollipop dragée sweet toffee soufflé donut. <!-- end --> Jelly sweet chupa chups jelly beans cheesecake danish pie. Tootsie roll cheesecake tootsie roll chocolate bar biscuit. Jelly-o chupa chups cheesecake liquorice chocolate cake cupcake bonbon wafer. Cupcake chocolate cake bonbon cheesecake carrot cake biscuit cookie sweet chocolate. Tart icing bear claw. Chocolate cake jelly beans gummies topping. Ice cream dessert macaroon gummi bears bear claw sesame snaps.
 
